@@ -14,9 +14,10 @@
 
  - 一个 Promise有以下几种状态:  
 
-	 - [ ]  pending: 初始状态，既不是成功，也不是失败状态。
-	 - [ ]   fulfilled: 意味着操作成功完成。
+	- [ ]  pending: 初始状态，既不是成功，也不是失败状态。
+	- [ ]   fulfilled: 意味着操作成功完成。
  	- [ ]   rejected: 意味着操作失败。
+	<br>
 ![promise](https://raw.githubusercontent.com/dcpnonstop/blogpic/master/promise-states.png)
 
 ---
